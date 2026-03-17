@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tv source-info-url="https://www.rcnradio.com" source-info-name="RCN Radio" generator-info-url="https://www.rcnradio.com" generator-info-name="Guia de Programación RCN Radio">
+<script id="eppiocemhmnlbhjplcgkofciiegomcon"/>
+<div id="in-page-channel-node-id" data-channel-name="rcn_radio_colombia"/>
+<channel id="La FM Bogotá.co"><display-name>La FM</display-name></channel>
+<channel id="La FM Plus Bogotá.co"><display-name>El Sol</display-name></channel>
+<channel id="Radio Uno Bogotá.co"><display-name>Radio Uno</display-name></channel>
+<channel id="El Sol Bogotá.co"><display-name>El Sol</display-name></channel>
+<channel id="Alerta Bogotá.co"><display-name>Alerta Bogotá</display-name></channel>
+<channel id="Deportes RCN.co"><display-name>Alerta Bogotá</display-name></channel>
+<programme start="20260316000000 -0500" stop="20260316030000 -0500" channel="La FM Bogotá.co"><title lang="es">Repetición tarde pero llego</title><desc lang="es">Lo mejor del programa de la tarde.</desc></programme>
+<programme start="20260316030000 -0500" stop="20260316033000 -0500" channel="La FM Bogotá.co"><title lang="es">Bienestar fm</title><desc lang="es">Espacio dedicado a la salud.</desc></programme>
+<programme start="20260316033000 -0500" stop="20260316034500 -0500" channel="La FM Bogotá.co"><title lang="es">La tienda ganadora</title><desc lang="es">Información para tenderos.</desc></programme>
+<programme start="20260316034500 -0500" stop="20260316040000 -0500" channel="La FM Bogotá.co"><title lang="es">Tierra de sueños</title><desc lang="es">Tierra de sueños es un programa dedicado al campo colombiano.</desc></programme>
+<programme start="20260316040000 -0500" stop="20260316110000 -0500" channel="La FM Bogotá.co"><title lang="es">Noticiero de La FM</title><desc lang="es">Las noticias de Colombia y el mundo. Investigación rigurosa, información confiable, periodismo con rigor. Lunes a viernes: 4:00 a.m. a 11:00 a.m. Dirige: Juan Lozano</desc></programme>
+<programme start="20260316110000 -0500" stop="20260316120000 -0500" channel="La FM Bogotá.co"><title lang="es">Peláez y de Francisco en La FM</title><desc lang="es">Un espacio de conversación futbolera donde Hernán Peláez y Martín De Francisco revisan la actualidad y la memoria del fútbol, con resultados, análisis, anécdotas y buen humor.</desc></programme>
+<programme start="20260316120000 -0500" stop="20260316130000 -0500" channel="La FM Bogotá.co"><title lang="es">Noticiero De La FM Local</title><desc lang="es">Noticias de Bogotá y la región.</desc></programme>
+<programme start="20260316130000 -0500" stop="20260316150000 -0500" channel="La FM Bogotá.co"><title lang="es">La FM Más Fútbol</title><desc lang="es">Juan Felipe Cadavid y Eduardo Luis López están "La FM Más Fútbol"’ con toda la actualidad y el análisis de las noticias más importante del fútbol y el deporte nacional e internacional. Lunes a viernes de 1:00 p.m., a 3:00 p.m., en La FM deportivas.</desc></programme>
+<programme start="20260316150000 -0500" stop="20260316160000 -0500" channel="La FM Bogotá.co"><title lang="es">Somos Mundial</title><desc lang="es">Fútbol internacional.</desc></programme>
+<programme start="20260316160000 -0500" stop="20260316190000 -0500" channel="La FM Bogotá.co"><title lang="es">Tarde, pero llego</title><desc lang="es">Un programa dinámico y entretenido donde la información relevante del día se mezcla con conversaciones ligeras, análisis agudo y el mejor ambiente para cerrar la jornada.</desc></programme>
+<programme start="20260316190000 -0500" stop="20260316200000 -0500" channel="La FM Bogotá.co"><title lang="es">Noticias RCN</title><desc lang="es">Resumen informativo.</desc></programme>
+<programme start="20260316200000 -0500" stop="20260316210000 -0500" channel="La FM Bogotá.co"><title lang="es">Aquí y Ahora</title><desc lang="es">Las entrevistas en profundidad y la opinión se convierten en herramientas para entender el presente. Programa conducido por D'Arcy Quinn, Maritza Aristizábal, Fernando Quijano, Felipe Quintero y Lewis Acuña.</desc></programme>
+<programme start="20260316210000 -0500" stop="20260316220000 -0500" channel="La FM Bogotá.co"><title lang="es">Siempre Contigo</title><desc lang="es">Con su estilo único, Silvia comparte su visión del mundo, invitando a la conversación, la empatía y la comprensión en un momento del día ideal para pensar, conectar y encontrar nuevas formas de ver la realidad.</desc></programme>
+<programme start="20260316220000 -0500" stop="20260316235959 -0500" channel="La FM Bogotá.co"><title lang="es">Mañana será otro día</title><desc lang="es">Compañía nocturna.</desc></programme>
+</tv>
